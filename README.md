@@ -9,3 +9,4 @@ The current version (ongoing annotations) include the following classes:
 - Professional_environment
 - Tobacco
   
+![Annotated sample](annotated_sample.png)
