@@ -1,0 +1,3 @@
+Criterios de exclusión:
+
+- Patients who routinely work during nightime (period between 11.00 p.m. and 7.00 a.m.)

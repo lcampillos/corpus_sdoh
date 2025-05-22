@@ -1,0 +1,3 @@
+Criterios de exclusión:
+
+- Pacientes que dedican < 60 minutos a la semana a realizar actividad física.

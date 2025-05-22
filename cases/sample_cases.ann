@@ -1,0 +1,8 @@
+T1	Tobacco 0 23	exfumador de 20 cig/día
+T2	Alcohol 51 87	consumidor de 2 copas de vino al día
+T3	Drug_abuse 116 162	exadicto a drogas en forma de cocaína inhalada
+T4	Alcohol 182 196	bebedor social
+T5	Lifestyle 256 267	Vida activa
+T6	Lifestyle 198 254	Independiente para actividades básicas de la vida diaria
+A1	Status T1 History_of
+A2	Status T3 History_of

@@ -1,0 +1,3 @@
+Exclusion criteria:
+
+- Patients that dedicate < 60 minutes of physical activity per week. 

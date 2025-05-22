@@ -1,0 +1,3 @@
+Exclusion criteria:
+
+- Patients not fluent in Spanish language.

@@ -1,0 +1,3 @@
+Criterios de exclusión:
+
+- Pacientes que trabajan habitualmente en horario nocturno.

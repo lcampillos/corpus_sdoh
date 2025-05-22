@@ -1,0 +1,3 @@
+Criterios de exclusión:
+
+- Pacientes que no manejen con fluidez el castellano.
