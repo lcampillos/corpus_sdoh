@@ -1,4 +1,4 @@
-# Corpus of annotated social determinants of health
+# Annotated corpus of social determinants of health
 
 The current version (ongoing annotations) include the following classes: 
 
